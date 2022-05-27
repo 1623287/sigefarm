@@ -1,0 +1,21 @@
+::::::::::::: LEEME ::::::::::::::::::::::::::::::::::::
+
+Para utilizar el aplicativo debe seguir los sgtes. pasos:
+
+1ero. Guardar la carpeta del proyecto en: xampp/htdocs/
+2do. Ejecutar 'Xampp Control Panel'
+3ero. Ir a: http://localhost/phpmyadmin/
+4to. Ir a la pestaña "Base de datos"
+5to. Crear una base de datos con el nombre “pharmacy” e importar el archivo: “pharmacy.sql”
+6to. En el navegador de internet ir a: http://localhost/farmacia/login.php
+
+Las credenciales de acceso son:
+Usuario: admin
+Clave: admin123
+
+
+
+
+
+
+
