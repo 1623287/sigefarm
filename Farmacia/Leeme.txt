@@ -2,11 +2,11 @@
 
 Para utilizar el aplicativo debe seguir los sgtes. pasos:
 
-1ero. Guardar la carpeta del proyecto en: xampp/htdocs/
+1ero. Guardar el contenido del proyecto en una carpeta con el nombre: Farmacia" y pegar la carpeta en: C:\xampp\htdocs\
 2do. Ejecutar 'Xampp Control Panel'
 3ero. Ir a: http://localhost/phpmyadmin/
-4to. Ir a la pestaÒa "Base de datos"
-5to. Crear una base de datos con el nombre ìpharmacyî e importar el archivo: ìpharmacy.sqlî
+4to. Ir a la pesta√±a "Base de datos"
+5to. Crear una base de datos con el nombre ‚Äúpharmacy‚Äù e importar el archivo: ‚Äúpharmacy.sql‚Äù
 6to. En el navegador de internet ir a: http://localhost/farmacia/login.php
 
 Las credenciales de acceso son:
